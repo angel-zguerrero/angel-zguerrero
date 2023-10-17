@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Multivende SPA
+- 👨🏻‍💻 I’m currently learning NodeJS, Phoenix Framework and RabbitMQ
+- 🤝🏽 I’m looking to collaborate on Distributed Systems
+- 💬 Ask me about NodeJS
+- 📫 How to reach me: <angel.zguerrero@gmail.com>
+- ⚡ Fun fact: I really like video game development
 <!--
 **angel-zguerrero/angel-zguerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
