@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Multivende SPA
 - 👨🏻‍💻 I’m currently learning NodeJS, Phoenix Framework and RabbitMQ
 - 🤝🏽 I’m looking to collaborate on Distributed Systems
-- 💬 Ask me about NodeJS
+- 💬 Ask me about NodeJS and Elixir
 - 📫 How to reach me: <angel.zguerrero@gmail.com>
 - ⚡ Fun fact: I really like video game development
 <!--
